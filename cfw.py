@@ -60,9 +60,8 @@ def send_welcome(message):
     
     
     welcome_message = """
-           　 🔰MmD Ai BoT
-             🔰　ｖ０．０４　　
-　　　　　　２ｒｉ４ｅＵＩ
+           　 🔰MmD Ai BoT🔰
+
 
     """
 
